@@ -1,2 +1,2 @@
 # Google
-The Best # Browser # in the world
+The Best Browser in the world
